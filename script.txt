@@ -1,0 +1,6 @@
+info
+sort
+max_by_health
+remove_all_by_health 17
+print_ascending
+remove_lower

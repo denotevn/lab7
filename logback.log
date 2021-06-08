@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-07T08:22:34.092758500Z</date>
+  <millis>1620375754092</millis>
+  <nanos>758500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>CONFIG</level>
+  <class>server.AppServer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:34.137938Z</date>
+  <millis>1620375754137</millis>
+  <nanos>938000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>server.AppServer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:34.137938Z</date>
+  <millis>1620375754137</millis>
+  <nanos>938000</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>FINER</level>
+  <class>server.AppServer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:34.252966800Z</date>
+  <millis>1620375754252</millis>
+  <nanos>966800</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>processing</method>
+  <thread>1</thread>
+  <message>server starting on port 6789</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:47.746650100Z</date>
+  <millis>1620375767746</millis>
+  <nanos>650100</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Processing request help...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:47.753281600Z</date>
+  <millis>1620375767753</millis>
+  <nanos>281600</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>write</method>
+  <thread>1</thread>
+  <message>Sending a response...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:50.287068400Z</date>
+  <millis>1620375770287</millis>
+  <nanos>68400</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Processing request show...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:50.289910700Z</date>
+  <millis>1620375770289</millis>
+  <nanos>910700</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>write</method>
+  <thread>1</thread>
+  <message>Sending a response...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:53.522577900Z</date>
+  <millis>1620375773522</millis>
+  <nanos>577900</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Processing request sort...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:53.523576500Z</date>
+  <millis>1620375773523</millis>
+  <nanos>576500</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>write</method>
+  <thread>1</thread>
+  <message>Sending a response...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:56.201338900Z</date>
+  <millis>1620375776201</millis>
+  <nanos>338900</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Processing request show...</message>
+</record>
+<record>
+  <date>2021-05-07T08:22:56.203353700Z</date>
+  <millis>1620375776203</millis>
+  <nanos>353700</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>server</class>
+  <method>write</method>
+  <thread>1</thread>
+  <message>Sending a response...</message>
+</record>

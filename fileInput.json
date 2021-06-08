@@ -1,0 +1,53 @@
+[
+  {
+    "id": 102,
+    "name": "N_T_M_T",
+    "coordinates": {
+      "x": 11,
+      "y": 22
+    },
+    "creationDate": "20/11/2022",
+    "health": 6789,
+    "category": "DREADNOUGHT",
+    "weaponType": "PLASMA_GUN",
+    "meleeWeapon": "CHAIN_SWORD",
+    "chapter": {
+      "name":"The light",
+      "parentLegion":"Juventus"
+    }
+  },
+  {
+    "id": 5678,
+    "name": "Messi",
+    "coordinates": {
+      "x": 22,
+      "y": 33
+    },
+    "creationDate": "20/11/2021",
+    "health": 101,
+    "category": "CHAPLAIN",
+    "weaponType": "FLAMER",
+    "meleeWeapon": "CHAIN_AXE",
+    "chapter": {
+      "name": "The dark",
+      "parentLegion": "Barcelona"
+    }
+  },
+  {
+    "id": 1002,
+    "name": "Zidane",
+    "coordinates": {
+      "x": 123,
+      "y": 456
+    },
+    "creationDate": "20/11/2020",
+    "health": 102,
+    "category": "APOTHECARY",
+    "weaponType": "MISSILE_LAUNCHER",
+    "meleeWeapon": "LIGHTING_CLAW",
+    "chapter": {
+      "name": "Em nha que",
+      "parentLegion": "Ev3 robot"
+    }
+  }
+]
